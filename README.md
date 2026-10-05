@@ -123,7 +123,7 @@ To save the world from creating user accounts and installing software applicatio
 
 
 ### File Converters
-
+* [Fileora PDF Tools](PDF_CATEGORY_URL) - Merge, compress, sign and convert PDFs in the browser; files are processed locally and never uploaded. Very large files are limited by your device's memory.
 * [Cloud Convert](https://cloudconvert.com/) - Convert from anything to anything including audio, video, font, document and lots more. Excellent integration with cloud storage services like Google Drive and Dropbox. Direct links.
 * [Online Convert](http://www.online-convert.com/) - Collection of audio, video, image, document, ebook and archive converter. No file size limits and direct download links upon conversion.
 * [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
@@ -137,7 +137,6 @@ To save the world from creating user accounts and installing software applicatio
 
 
 ### File Hosting/Sharing
-* [Fileora](https://fileora.tools) - 149 free tools for PDF, image, video, audio and text that run in the browser. No uploads, no signup.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [Internet Archive](https://archive.org/) - Browse a free library of books, films, music, software, and other saved documents, including the Wayback Machine’s copies of old web pages. No account needed to search or read.
 * [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
